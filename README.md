@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1eOdOnfR8v_kGUCNEIaQn6T5VUQlCGdNz/view?usp=shari
 https://drive.google.com/file/d/1g-aKnu8s_mwfZh1fFGlqPj8j7Ya1bJxk/view?usp=sharing
 https://drive.google.com/file/d/12Nq08qeeitMCwsg_qEXG7A-W2NP8PIuG/view?usp=sharing
 ## зависимости
-requirements.txt
+requirements.txt, 
 установка catboost https://catboost.ai/en/docs/installation/python-installation-method-build-from-source-linux-macos
 ## запуск
 при скачивании всех данных, запускать с пункта Base Features
